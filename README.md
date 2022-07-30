@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madsonmnl
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL and Machine learning
 - 📫 How to reach me https://www.linkedin.com/in/madson-lima/
 
 <!---
